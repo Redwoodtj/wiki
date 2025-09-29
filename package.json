@@ -176,7 +176,7 @@
     "ssh2-promise": "1.0.2",
     "striptags": "3.2.0",
     "subscriptions-transport-ws": "0.9.18",
-    "tar-fs": "2.1.1",
+    "tar-fs": "2.1.4",
     "turndown": "7.1.1",
     "twemoji": "13.1.0",
     "uslug": "1.0.4",
